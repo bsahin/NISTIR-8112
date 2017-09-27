@@ -66,7 +66,7 @@ Technology and Director*
 <div class="text-center" markdown="1">
 
 National Institute of Standards and Technology Special Publication 800-63-3  
-Natl. Inst. Stand. Technol. Spec. Publ. 800-63-3, xxx pages (MonthTBD 2016)  
+Natl. Inst. Stand. Technol. Spec. Publ. 800-63-3, xxx pages (MonthTBD 2017)  
 CODEN: NSPUE2
 
 
