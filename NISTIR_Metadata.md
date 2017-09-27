@@ -173,11 +173,11 @@ Attribute values sent from an AP to an RP may only be valid for its defined use 
 
 ##### Date Consented
 
-As referenced in subsection 3.1.5, the RP and AP may have agreed in advance on attribute metadata for conveying subject consent as a basis for processing the data when required by law or policy. In addition, some RPs may wish to understand when that consent was received in cases where consent is being obtained as a voluntary best practice or to use as a factor in evaluating how reliable subjects’ assumptions are about how their data is being processed in order to take additional steps to manage privacy risks in their systems.
+As referenced in [Subsection 3.1.5](https://github.com/usnistgov/NISTIR-8112/blob/nist-pages/NISTIR_Metadata.md#315-data-processing), the RP and AP may have agreed in advance on attribute metadata for conveying subject consent as a basis for processing the data when required by law or policy. In addition, some RPs may wish to understand when that consent was received in cases where consent is being obtained as a voluntary best practice or to use as a factor in evaluating how reliable subjects’ assumptions are about how their data is being processed in order to take additional steps to manage privacy risks in their systems.
 
 #### Consent Type
 
-As referenced in subsection 3.1.5, the RP and AP may have agreed in advance on attribute metadata for conveying subject consent as a basis for processing the data when required by law or policy. In addition, some RPs may wish to understand the specific consent type where consent is being obtained as a voluntary best practice or to use as a factor in evaluating how reliable subjects’ assumptions are about how their data is being processed in order to take additional steps to manage privacy risks in their systems. Potential values for this element include, but are not limited to: opt-in, opt-out, parental-delegated, power of attorney-delegated.
+As referenced in [Subsection 3.1.5](https://github.com/usnistgov/NISTIR-8112/blob/nist-pages/NISTIR_Metadata.md#315-data-processing), the RP and AP may have agreed in advance on attribute metadata for conveying subject consent as a basis for processing the data when required by law or policy. In addition, some RPs may wish to understand the specific consent type where consent is being obtained as a voluntary best practice or to use as a factor in evaluating how reliable subjects’ assumptions are about how their data is being processed in order to take additional steps to manage privacy risks in their systems. Potential values for this element include, but are not limited to: opt-in, opt-out, parental-delegated, power of attorney-delegated.
 
 ##### Acceptable Uses
 
